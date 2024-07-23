@@ -17,7 +17,7 @@
 - `OAuthHandler.js`: Manages OAuth authentication process.
 - `registration.js`: Takes care of new user registrations.
 - `chatSupport.js`: Provides AI chat support integration.
-- `emailHandler.js`: Manages sending and receiving emails.
-- `geminiConfig.js`: Configuration module for (Google) Gemini integration.
+- `contact.html`: Manages sending email support inquiries.
+- `openAi.js`: OpenAI API integration for trained chat support bot.
 - `membershipManager.js`: Manages premium membership subscriptions.
 - `userProfile.js`: Manages user profile information and interactions.
