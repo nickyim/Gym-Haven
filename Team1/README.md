@@ -1,4 +1,4 @@
-# ECE452 SoftEng Project - Team 4
+# ECE452 SoftEng Project - Team 1
 
 ## Responsibilities
 
